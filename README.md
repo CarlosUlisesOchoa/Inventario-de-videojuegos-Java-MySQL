@@ -18,6 +18,10 @@ Un pequeño y sencillo sistema que permite registrar videojuegos en una base de 
 
 # Acerca del desarrollador
 
+Visita mi página web [Carlos Ulises](http://www.carlosulises.ml)
+
 <p align="center">
+<a href="http://www.carlosulises.ml" target="_BLANK">
 <img width="700" height="382" src="https://github.com/CarlosUlisesOchoa/Sistema-de-inventario-videojuegos-MySQL/blob/master/project%20images/2019-04-24_09h08_57.png?raw=true" />
+</a>
 </p>
