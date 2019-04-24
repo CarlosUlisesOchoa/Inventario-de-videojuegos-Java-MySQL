@@ -2,6 +2,10 @@
 
 Un pequeño y sencillo sistema que permite registrar videojuegos en una base de datos MySQL y los muestra en una interfaz gráfica
 
+Nota: MySQL es requerido por lo que debe de estar instalado y corriendo previamente en donde este programa vaya a ser ejecutado, la base de datos y tablas el programa intentará crearlas automáticamente una vez pueda establecer conexión con MySQL
+
+Nota 2: Este proyecto fue elaborado en Java con el IDE Netbeans
+
 <br/>
 <p align="center">
 <img width="319" height="278" src="https://raw.githubusercontent.com/CarlosUlisesOchoa/Sistema-de-inventario-videojuegos-MySQL/master/project%20images/2019-04-24_09h06_50.png" alt="Interfaz principal" />
