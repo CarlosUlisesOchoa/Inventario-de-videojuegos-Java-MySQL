@@ -1,10 +1,10 @@
-# Sistema de inventario de videojuegos con Java y MySQL
+# Games inventory system made with Java & MySQL (Netbeans)
 
-Un pequeño y sencillo sistema que permite registrar videojuegos en una base de datos MySQL y los muestra en una interfaz gráfica
+A little and simple program that will let you register videogames into a MySQL database and will show data in a UI
 
-Nota: MySQL es requerido por lo que debe de estar instalado y corriendo previamente en donde este programa vaya a ser ejecutado, la base de datos y tablas el programa intentará crearlas automáticamente una vez pueda establecer conexión con MySQL
+PD: MySQL is requiered, you should have it installed before run this program, when this program starts it will try to create a DB if it necessary, you won't need to worry about any DB configurations.
 
-Nota 2: Este proyecto fue elaborado en Java con el IDE Netbeans
+PD2: This program is written in spanish, english translation will be available soon. You can translate it easily because it has very little text
 
 <br/>
 <p align="center">
@@ -20,12 +20,12 @@ Nota 2: Este proyecto fue elaborado en Java con el IDE Netbeans
 <img width="450" height="350" src="https://raw.githubusercontent.com/CarlosUlisesOchoa/Sistema-de-inventario-videojuegos-MySQL/master/project%20images/2019-04-24_09h08_31.png" />
 </p> <br/>
 
-# Acerca del desarrollador
+# About developer
 
-Visita mi página web [Carlos Ulises](http://www.carlosulises.ml)
+Visit my website [Carlos Ulises](http://www.carlosulises.ml)
 
 <p align="center">
 <a href="http://www.carlosulises.ml" target="_BLANK">
-<img width="700" height="382" src="https://github.com/CarlosUlisesOchoa/Sistema-de-inventario-videojuegos-MySQL/blob/master/project%20images/2019-04-24_09h08_57.png?raw=true" />
+<img width="700" height="382" src="https://github.com/CarlosUlisesOchoa/Calculador-de-integrales-definidas-java/blob/master/project%20images/dev.png?raw=true" />
 </a>
 </p>
