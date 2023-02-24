@@ -8,6 +8,12 @@
 
 <br>
 
+<p align="center">
+<img width="50%" height="50%" src="https://raw.githubusercontent.com/CarlosUlisesOchoa/Sistema-de-inventario-videojuegos-MySQL/master/project%20images/2019-04-24_09h06_50.png" />
+</p>
+
+<br/>
+
 <p align="left">
 Simple herramienta que te permitira registrar videojuegos en una base de datos
 </p> 
@@ -22,7 +28,6 @@ Simple herramienta que te permitira registrar videojuegos en una base de datos
 - [Funcionamiento](#imagenes-del-programa)
 - [Licencia](#licencia)
 - [Acerca del desarrollador](#acerca-del-desarrollador)
-- [Donar](#donar)
 
 ---
 <br>
@@ -57,12 +62,6 @@ Este programa te permitira tener un inventario de todos los videojuegos que tien
 ## Imagenes del programa
 
 <p align="center">
-<img width="50%" height="50%" src="https://raw.githubusercontent.com/CarlosUlisesOchoa/Sistema-de-inventario-videojuegos-MySQL/master/project%20images/2019-04-24_09h06_50.png" />
-</p>
-
-<br/>
-
-<p align="center">
 <img width="40%" height="40%" src="https://raw.githubusercontent.com/CarlosUlisesOchoa/Sistema-de-inventario-videojuegos-MySQL/master/project%20images/2019-04-24_09h07_29.png" />
 </p>
 
@@ -82,23 +81,6 @@ Este proyecto se encuentra bajo los términos de la [Licencia MIT](./LICENSE.md)
 
 ## Acerca del desarrollador
 
-Visita mi página web [Carlos Ulises](http://www.carlosulises.ml)
-
-<a href="http://www.carlosulises.ml" target="_BLANK">
-<img width="85%" height="85%" src="https://github.com/CarlosUlisesOchoa/Roulette-pictures-game-Java-SQLite/blob/spanish_version/project%20images/dev-es.jpg?raw=true" />
-</a>
+Visita mi página web [Carlos Ochoa](https://carlos8a.com)
 
 <br>
-
-#### Mis redes sociales
-
-<a href="https://www.facebook.com/UliGibson"><img src="https://github.com/CarlosUlisesOchoa/Roulette-pictures-game-Java-SQLite/blob/english_version/project%20images/fb.png?raw=true" width="70"></a> <a href="https://www.linkedin.com/in/carlos-ulises-ochoa-51389215b/"><img src="https://github.com/CarlosUlisesOchoa/Roulette-pictures-game-Java-SQLite/blob/english_version/project%20images/li.png?raw=true" width="70"></a> <a href="http://twitter.com/UliGibson"><img src="https://github.com/CarlosUlisesOchoa/Roulette-pictures-game-Java-SQLite/blob/english_version/project%20images/tw.png?raw=true" width="70"></a> <a href="mailto:uligibson@hotmail.com"><img src="https://github.com/CarlosUlisesOchoa/Roulette-pictures-game-Java-SQLite/blob/english_version/project%20images/outlook.png?raw=true" width="70"></a>
-
-<br>
-<br>
-
-## Donar
-
-¡ Invítame un café !
-
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=E9S9NRUYDDKZQ&source=url"><img width="20%" height="20%" src="https://github.com/CarlosUlisesOchoa/File-Hosting/blob/master/Images/pp%20donar.png?raw=true" alt="Botón donar"/></a>
